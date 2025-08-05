@@ -5,6 +5,6 @@
     }],
     "routes":[{
         "src":"/(.*)",
-        "dist":"/app.py"
+        "dest":"/app.py"
     }]
 }
